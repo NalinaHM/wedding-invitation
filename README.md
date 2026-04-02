@@ -19,10 +19,6 @@ Monday, 20 April 2026 – 9:40 AM to 10:30 AM
 Sri Jagadguru Thontad Siddalingeshwara Convention Hall
 B.M. Road, Near Grama Panchayithi, Yediyur
 
-## 🌐 Live Website
-
-https://yourusername.github.io/repository-name
-
 ## 📱 Website Features
 
 * Royal wedding invitation design
